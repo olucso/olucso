@@ -1,3 +1,4 @@
+´´´
 public class Lucas {
     private String nationality;
     private String currentlyLiving;
@@ -14,3 +15,4 @@ public class Lucas {
         this.knowledgeBackEnd = List.of("Java", "C#", "Spring Boot", ".Net", "Oracle", "MySQL", "Python");
         this.college = List.of("Faculdade de Informática e Administração Paulista");
     }
+´´´
