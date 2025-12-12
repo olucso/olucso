@@ -12,6 +12,6 @@
       "college": ["Faculdade de Informática e Administração Paulista"]
     }
   }
-  ```
   </pre>
 </div>
+```
