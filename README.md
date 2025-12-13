@@ -1,7 +1,7 @@
 ### Hi, how are you?
 
 
-```
+```javascript
 // A little bit of Luana
 
 const luana = {
@@ -12,7 +12,7 @@ const luana = {
 };
 ```
 
-```
+```java
 // A little bit of Luana's ideals
 
 interface Conhecimento { 
