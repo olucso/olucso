@@ -1,4 +1,5 @@
-### 𝙷𝚒, <img src="https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif" width="20px"/>
+### 𝙷𝚒, <𝚌𝚘𝚍𝚎𝚛<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">/><img src="https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif" width="20px"/>
+### 𝙷𝚒, <𝚌𝚘𝚍𝚎𝚛<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">/>
 
 ```java
 // A little bit of Lucas
