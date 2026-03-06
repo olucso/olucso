@@ -1,6 +1,8 @@
-### Hi, how are you?
+### Hi, <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
 
+I'm Lucas, a simple man, Backend Developer, lover of innovation and gearhead.
 
+<!--
 ```javascript
 // A little bit of Luana
 
@@ -25,6 +27,8 @@ public class Tecnologia implements Conhecimento {
   }
 }
 ```
+-->
+
 <div>
   <h2>Technologies:</h2>
   <a href="https://www.java.com"><img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="max-width:100%;"/></a>
