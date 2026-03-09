@@ -10,6 +10,24 @@ public class Lucas {
     String[] tools = { "Adobe Experience Manager", "React.js", "Spring Boot", "Angular" };
   }
 }
+
+----------//----------
+
+// Software Developer | Java | AEM | Motorsport enthusiast
+
+interface Developer {
+
+    String[] languages = { "Java", "JavaScript", "Python" };
+    String[] frameworks = { "Spring Boot", "React", "Angular" };
+    String[] tools = { "AEM", "Git", "Docker" };
+}
+
+public class Lucas implements Developer {
+
+    String[] hobbies = { "Motorsport", "Gearhead" };
+
+    String motto = "Clean code & fast cars";
+}
 ```
 
 <details>
