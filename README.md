@@ -94,3 +94,72 @@ public class Tecnologia implements Conhecimento {
   <a href="https://www.python.org"><img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="max-width:100%;"/></a>
   <a href="https://colab.google"><img align="center" alt="Google Colab" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" style="max-width:100%;"/></a>
 </div>
+
+```java
+interface Engineer {
+
+String[] languages = { "Java", "JavaScript", "Python" };
+
+String[] stack = {
+    "Spring Boot",
+    "React",
+    "Angular",
+    "Adobe Experience Manager"
+};
+
+String[] practices = {
+    "Clean Code",
+    "SOLID",
+    "Design Patterns"
+};
+
+}
+
+public class Lucas implements Engineer {
+
+String role = "Software Engineer";
+
+String[] interests = {
+    "Motorsport",
+    "Automotive Engineering"
+};
+
+String motto = "Building scalable systems and fast machines.";
+
+}
+```
+
+```java
+interface Developer {
+
+```
+String[] languages = { "Java", "JavaScript", "Python" };
+
+String[] stack = {
+    "Spring Boot",
+    "React",
+    "Angular",
+    "Adobe Experience Manager"
+};
+
+String philosophy = "Clean code, high performance.";
+```
+
+}
+
+public class Lucas implements Developer {
+
+```
+String role = "Software Developer";
+
+String[] hobbies = {
+    "Motorsport",
+    "Gearhead"
+};
+
+String mindset = "Build software like engines: efficient, reliable, fast.";
+```
+
+}
+
+```
