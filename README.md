@@ -28,6 +28,37 @@ public class Lucas implements Developer {
 
     String motto = "Clean code & fast cars";
 }
+
+
+interface Developer {
+
+
+String[] languages = { "Java", "JavaScript", "Python" };
+String[] frameworks = { "Spring Boot", "React", "Angular" };
+String[] tools = { "AEM", "Git", "Docker" };
+
+
+}
+
+public class Lucas implements Developer {
+
+
+String role = "Software Developer";
+
+String[] hobbies = {
+    "Motorsport",
+    "Gearhead"
+};
+
+String motto = "Clean code & fast cars";
+
+public static void main(String[] args) {
+    Lucas me = new Lucas();
+}
+
+}
+
+
 ```
 
 <details>
