@@ -88,11 +88,12 @@ public class Tecnologia implements Conhecimento {
 ```
 -->
 
+
 <div>
   <h3>Technologies:</h3>
-  <a href="https://www.java.com"><img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="max-width:100%;"/></a>
-  <a href="https://www.python.org"><img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="max-width:100%;"/></a>
-  <a href="https://colab.google"><img align="center" alt="Google Colab" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" style="max-width:100%;"/></a>
+  <a href="https://www.java.com" target="_blank"><img align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="height: 60px; width: auto;"/></a>
+  <a href="https://www.python.org" target="_blank"><img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="height: 60px; width: auto;"/></a>
+  <a href="https://colab.google" target="_blank"><img align="center" alt="Google Colab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" style="height: 60px; width: auto;"/></a>
 </div>
 
 ```java
