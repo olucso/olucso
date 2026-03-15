@@ -91,9 +91,9 @@ public class Tecnologia implements Conhecimento {
 
 <div>
   <h3>Technologies:</h3>
-  <a href="https://www.java.com" target="_blank"><img align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="height: 60px; width: auto;"/></a>
-  <a href="https://www.python.org" target="_blank"><img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="height: 60px; width: auto;"/></a>
-  <a href="https://colab.google" target="_blank"><img align="center" alt="Google Colab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" style="height: 60px; width: auto;"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" style="height: 60px; width: auto;"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" style="height: 60px; width: auto;"/></a>
+  <a href="https://colab.google" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" style="height: 60px; width: auto;"/></a>
 </div>
 
 ```java
